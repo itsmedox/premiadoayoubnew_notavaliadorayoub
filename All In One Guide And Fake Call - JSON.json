@@ -5,11 +5,11 @@
   "ironsource_interstitial_id": "xxxx",
   "ironsource_rewarded_id": "xxxx",
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
-  "max": false,
+  "applovin_banner_id": "8f4670718b8cfa20",
+  "applovin_interstitial_id": "d66a2ac4d6c05fa4",
+  "applovin_native_id": "bf8be62e113abfd7",
+  "applovin_rewarded_id": "29be5bc5289cd829",
+  "max": true,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
@@ -33,10 +33,10 @@
   
   "Ads Explanation": " custom | applovin | admob | facebook | ironsource | unity | startapp ",
 
-  "Interstitial": "",
-  "Banner": "",
-  "Native": "",
-  "Rewarded": "",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "onesignal_id": "xxxxxxx",
@@ -61,8 +61,8 @@
   "rating_exit_popup": true,
   
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
   "show_cpa": false,
   "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
