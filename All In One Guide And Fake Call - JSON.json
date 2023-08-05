@@ -9,7 +9,7 @@
   "applovin_interstitial_id": "d66a2ac4d6c05fa4",
   "applovin_native_id": "bf8be62e113abfd7",
   "applovin_rewarded_id": "29be5bc5289cd829",
-  "max": true,
+  "max": false,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
